@@ -197,10 +197,10 @@ Lехus является надежным, экономичным, вмести�
 
 НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
 		<Price>20699000</Price>
-		<TradeinDiscount/>
+		<TradeinDiscount>250000</TradeinDiscount>
 		<CreditDiscount>755000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount>755000</MaxDiscount>
+		<MaxDiscount>1005000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/29e48320b3aaf21bb8d7edf2649c112a.jpg"/>
@@ -1072,9 +1072,9 @@ Lехus является надежным, экономичным, вмести�
 Звоните прямо сейчас!</Description>
 		<Price>4500000</Price>
 		<TradeinDiscount/>
-		<CreditDiscount/>
+		<CreditDiscount>101000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>101000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094568/02b0a0da39eb78ec02f4266b79476385.jpg"/>
@@ -1140,9 +1140,9 @@ Lехus является надежным, экономичным, вмести�
 Звоните прямо сейчас!</Description>
 		<Price>4500000</Price>
 		<TradeinDiscount/>
-		<CreditDiscount/>
+		<CreditDiscount>101000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>101000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/39188827dcea6fa8891357ce2096984d.jpg"/>
@@ -1207,10 +1207,10 @@ Lехus является надежным, экономичным, вмести�
 
 Большой выбор автомобилей в наличии. Максимально выгодные предложения на покупку новых автомобилей и автомобилей с пробегом!</Description>
 		<Price>12599000</Price>
-		<TradeinDiscount/>
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount>200000</MaxDiscount>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTEAACAJ1RK000757/605383f3f31d2fc4946b2a0a16f7e608.jpeg"/>
