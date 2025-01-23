@@ -1042,73 +1042,6 @@ Lехus является надежным, экономичным, вмести�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>3add9d13c8ea556d6dc26abb42c894d5</Id>
-		<Address>г. Оренбург, Загородное ш, 13</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>В наличии TOYOTA RAV4, 2023 года выпуска, комплектация Fashion Plus
-
-Автомобиль представлен от официального дилера Тойота-Оренбург:
-
-✅ НДС С ПОЛНОЙ СТОИМОСТИ
-
-✅ Гарантия 2 года, либо 50 000 км (в зависимости от того, что наступит ранее).
-
-✅ Выгодный обмен Вашего автомобиля на новый
-
-✅ Автомобиль с ЭПТС
-
-✅ ЛИЗИНГ
-
-Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
-
-Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
-
-Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
-
-Большой выбор автомобилей в наличии. Максимально выгодные предложения на покупку новых автомобилей и автомобилей с пробегом! 
-
-Звоните прямо сейчас!</Description>
-		<Price>4500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/39188827dcea6fa8891357ce2096984d.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/d607da76a9069c328173c0fcf37af6fa.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/25f1a203c6b8a44b068fa573d65212cb.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/9879c50e2aa019626200b103786a4b53.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/071cd774ffccc08616b0eecdf0d2082f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/42bc1ee5fceea12d2b2d720e1831da6a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/200d79ce785846c9b382a2186c525b42.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/d6d3e32860eafd308d16a6be3e5de277.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/de42b074541032c099612bf8a85504c9.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/f7214db2c729fece6dc862b6dcd529f5.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/498a77b5de01701101a86f3b9b6a59a0.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/12d52a5dc0eb4b52a8e3c5ea8925a895.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/44ac5e7cc50c25a1eded38ac11bdf6fc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/46e8787520ced72fa1fc9d893e6b9041.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/48810e2c0ed03d3345b8968b50700344.jpeg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>426116</GenerationId>
-		<ModificationId>18374280</ModificationId>
-		<ComplectationId>18374283</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2023</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJN5BF2P3094571</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>b35bc12bdf36914bfe84122e7fd0de09</Id>
 		<Address>г. Оренбург, Загородное ш, 13</Address>
 		<CarType>Новые</CarType>
@@ -1177,77 +1110,70 @@ Lехus является надежным, экономичным, вмести�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>25820bd0a8af713ad95d0e7593f98cb9</Id>
+		<Id>3add9d13c8ea556d6dc26abb42c894d5</Id>
 		<Address>г. Оренбург, Загородное ш, 13</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
-		<Description>В наличии НОВЫЙ ОБНОВЛЕННЫЙ TOYOTA Land Cruiser Prado 250, комплектация ПРЕСТИЖ.
-Тип двигателя - дизельный
-
-Сборка Япония.
+		<Description>В наличии TOYOTA RAV4, 2023 года выпуска, комплектация Fashion Plus
 
 Автомобиль представлен от официального дилера Тойота-Оренбург:
 
-✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
-✅ B Нaличии, C ПТC, готова к постановке нa учет.
-✅ Купим вaш aвтомобиль и дадим скидку на новый
-✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
-✅ Мы работаем с ведущими страховыми компаниями и банками;
-✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+✅ НДС С ПОЛНОЙ СТОИМОСТИ
 
-Стоимость автомобиля 12 599 000 рублей.
+✅ Гарантия 2 года, либо 50 000 км (в зависимости от того, что наступит ранее).
 
-Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+✅ Выгодный обмен Вашего автомобиля на новый
+
+✅ Автомобиль с ЭПТС
+
+✅ ЛИЗИНГ
+
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
 
 Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
 
 Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
 
-История создания Тойота началась больше ста лет назад. Японская компания прошла долгий путь, в результате которого превратилась в один из самых крупных автоконцернов мира. Корпорация продолжает активное развитие и завоевывает все более прочные позиции на рынке.
+Большой выбор автомобилей в наличии. Максимально выгодные предложения на покупку новых автомобилей и автомобилей с пробегом! 
 
-Большой выбор автомобилей в наличии. Максимально выгодные предложения на покупку новых автомобилей и автомобилей с пробегом!</Description>
-		<Price>12599000</Price>
+Звоните прямо сейчас!</Description>
+		<Price>4500000</Price>
 		<TradeinDiscount/>
-		<CreditDiscount>250000</CreditDiscount>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>250000</MaxDiscount>
-		<Color>Серый</Color>
+		<MaxDiscount/>
+		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/93e0697a3c29f1df66665a66ccba68c5.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/1f0311dfae9a21de000a5064fe91d827.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/c17719bdec8bed5e88582944878b14dc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/332b797e727b6890a0f1c10361cd2ef0.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/eb5d465aeca4bae84def3e3698dbd632.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/f9e7ab79118d99a59f6f3b549d432663.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/c6a2aa9c90aac673a6b8016cd8e73412.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/b5ee4eb7c99b81972741b33416d0d495.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/0720acb9f3adeb1b2d3ceff6036838eb.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/3e1831e978d4051b71c4b9816fa95173.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/d1041d294863586fd00b979ba2943af9.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/6f0497ccb357e723abe50cb614b934f7.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/019ad3ba6ff2810c5bf5b26bb3335403.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/07016922e607c4b81c4717614c943dfc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/3262477a5040902e6d0fedd9f912f4b4.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/9f966447686b848643b967dbd8abcd0c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/b4d82dc8c8f958580bf1a5e648bbf827.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/4e8bae2a895fd9cb0a676551a237b529.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/446ab197e39def3ea3b82402933a72cc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ9RK004502/9ef9291f6b4c48f4ead369c77854c5ad.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/39188827dcea6fa8891357ce2096984d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/d607da76a9069c328173c0fcf37af6fa.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/25f1a203c6b8a44b068fa573d65212cb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/9879c50e2aa019626200b103786a4b53.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/071cd774ffccc08616b0eecdf0d2082f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/42bc1ee5fceea12d2b2d720e1831da6a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/200d79ce785846c9b382a2186c525b42.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/d6d3e32860eafd308d16a6be3e5de277.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/de42b074541032c099612bf8a85504c9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/f7214db2c729fece6dc862b6dcd529f5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/498a77b5de01701101a86f3b9b6a59a0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/12d52a5dc0eb4b52a8e3c5ea8925a895.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/44ac5e7cc50c25a1eded38ac11bdf6fc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/46e8787520ced72fa1fc9d893e6b9041.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2P3094571/48810e2c0ed03d3345b8968b50700344.jpeg"/>
 		</Images>
 		<Make>Toyota</Make>
-		<Model>Land Cruiser Prado</Model>
-		<GenerationId>18663001</GenerationId>
-		<ModificationId>22058769</ModificationId>
-		<ComplectationId>22077158</ComplectationId>
-		<FuelType>Дизель</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>18374283</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2023</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>JTEARCAJ9RK004502</VIN>
+		<VIN>LFMJN5BF2P3094571</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
